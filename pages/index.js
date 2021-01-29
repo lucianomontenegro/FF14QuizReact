@@ -48,7 +48,7 @@ export default function Home() {
           <Widget.Content>
             <h1>Quiz geral</h1>
             <p>
-              Descrição loren ipsun
+              Descrição loren ipsun Liuciano
             </p>
           </Widget.Content>
         </Widget>
